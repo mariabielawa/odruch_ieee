@@ -6,9 +6,11 @@ W Terminalu:
 ```
 python -m venv venv
 venv\Scripts\activate
-pip install -r requirements.txt
+pip install -r require.txt
+```
 
 Ważne, żeby potem wybrać odpowiedni interpreter:
+```
 Ctrl + Shift + P
 Python: Select Interpreter
 Wybranie środowiska venv
