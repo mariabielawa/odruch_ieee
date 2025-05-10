@@ -3,7 +3,7 @@ import torch
 from constants import *
 from board import *
 from utils import BoardConverter
-import copy
+
 
 
 class AI_COG:

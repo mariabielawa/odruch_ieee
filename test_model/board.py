@@ -118,15 +118,27 @@ class Board:
 
     def evaluate(self):
         score = 0
+        white_count = 0
+        black_count = 0
+
         for row in self.board:
             for piece in row:
                 if piece is not None:
                     value = 1 if not piece.king else 10
                     if piece.color == WHITE:
                         score += value
+                        white_count += 1
                     else:
                         score -= value
+                        black_count += 1
+
+        captured_black = START_BLACK - black_count
+        captured_white = START_WHITE - white_count
+        bonus = (captured_black - captured_white) * 2
+        score += bonus
+
         return score
+
 
 def draw_end_game_message(message):
     font = pygame.font.SysFont("arial", 36)

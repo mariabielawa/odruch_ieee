@@ -14,13 +14,12 @@ class BoardConverter:
                 if piece is None:
                     row_list.append(0)  # 0 = puste pole
                 elif piece.color == WHITE:
-                    row_list.append(2 if piece.king else 1)  # 1 = biały pionek, 2 = biały król
+                    row_list.append(10 if piece.king else 1)  # 1 = biały pionek, 2 = biały król
                 else:
-                    row_list.append(4 if piece.king else 3)  # 3 = czarny pionek, 4 = czarny król
+                    row_list.append(-10 if piece.king else -1)  # 3 = czarny pionek, 4 = czarny król
             board_list.append(row_list)
         return board_list
     
-
 class MoveSaver:
     def __init__(self, filename="training_data.json"):
         self.filename = filename
@@ -59,5 +58,5 @@ class MoveSaver:
         existing_data.append(data)
 
         with open(self.filename, "w") as f:
-            json.dump(existing_data, f, indent=2)
-
+            json_string = json.dumps(existing_data, separators=(",", ":"))
+            f.write(json_string.replace("],", "],\n"))
