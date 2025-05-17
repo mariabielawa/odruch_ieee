@@ -1,0 +1,7502 @@
+[
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -9
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 33
+  },
+  {
+    "winner": "draw",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "draw",
+    "moves": 58,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 45
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 101,
+    "score": 27
+  },
+  {
+    "winner": "draw",
+    "moves": 36,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 88,
+    "score": -15
+  },
+  {
+    "winner": "draw",
+    "moves": 41,
+    "score": 27
+  },
+  {
+    "winner": "draw",
+    "moves": 47,
+    "score": 6
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 67,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 9
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 66,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 24
+  },
+  {
+    "winner": "draw",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 37,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -30
+  },
+  {
+    "winner": "draw",
+    "moves": 44,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 71,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -9
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -15
+  },
+  {
+    "winner": "draw",
+    "moves": 50,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 79,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 100,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -9
+  },
+  {
+    "winner": "white",
+    "moves": 93,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -3
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 81,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 36,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 88,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 85,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 81,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 86,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 42
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -33
+  },
+  {
+    "winner": "draw",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 93,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -45
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 37,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 80,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 45
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 33
+  },
+  {
+    "winner": "draw",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -36
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 27
+  },
+  {
+    "winner": "draw",
+    "moves": 49,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -30
+  },
+  {
+    "winner": "draw",
+    "moves": 44,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 74,
+    "score": -9
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 30
+  },
+  {
+    "winner": "draw",
+    "moves": 50,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 36,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 42
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "draw",
+    "moves": 51,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -45
+  },
+  {
+    "winner": "draw",
+    "moves": 56,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 94,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 36
+  },
+  {
+    "winner": "draw",
+    "moves": 50,
+    "score": -21
+  },
+  {
+    "winner": "draw",
+    "moves": 48,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -9
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 39
+  },
+  {
+    "winner": "draw",
+    "moves": 50,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 15
+  },
+  {
+    "winner": "draw",
+    "moves": 48,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 122,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 37,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 24
+  },
+  {
+    "winner": "draw",
+    "moves": 46,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 36
+  },
+  {
+    "winner": "draw",
+    "moves": 39,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 82,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 67,
+    "score": 24
+  },
+  {
+    "winner": "draw",
+    "moves": 42,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -30
+  },
+  {
+    "winner": "draw",
+    "moves": 41,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 35,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 9
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 18
+  },
+  {
+    "winner": "draw",
+    "moves": 51,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -30
+  },
+  {
+    "winner": "draw",
+    "moves": 58,
+    "score": -18
+  },
+  {
+    "winner": "draw",
+    "moves": 38,
+    "score": -45
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 90,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 79,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 99,
+    "score": 12
+  },
+  {
+    "winner": "draw",
+    "moves": 38,
+    "score": -39
+  },
+  {
+    "winner": "draw",
+    "moves": 48,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -42
+  },
+  {
+    "winner": "draw",
+    "moves": 59,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -36
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 82,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -9
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 92,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 15
+  },
+  {
+    "winner": "draw",
+    "moves": 44,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -15
+  },
+  {
+    "winner": "draw",
+    "moves": 51,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 90,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 38,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 27
+  },
+  {
+    "winner": "draw",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 67,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 48
+  },
+  {
+    "winner": "black",
+    "moves": 132,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 71,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 77,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 27
+  },
+  {
+    "winner": "draw",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 37,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -6
+  },
+  {
+    "winner": "black",
+    "moves": 38,
+    "score": -45
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 101,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 74,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -6
+  },
+  {
+    "winner": "black",
+    "moves": 80,
+    "score": -12
+  },
+  {
+    "winner": "draw",
+    "moves": 70,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 81,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 57
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 45
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -24
+  },
+  {
+    "winner": "draw",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 111,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 6
+  },
+  {
+    "winner": "white",
+    "moves": 83,
+    "score": 18
+  },
+  {
+    "winner": "draw",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 42
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -24
+  },
+  {
+    "winner": "draw",
+    "moves": 47,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 21
+  },
+  {
+    "winner": "draw",
+    "moves": 43,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 86,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 77,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 89,
+    "score": 12
+  },
+  {
+    "winner": "draw",
+    "moves": 39,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 37,
+    "score": 45
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -48
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 38,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 93,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "draw",
+    "moves": 41,
+    "score": 27
+  },
+  {
+    "winner": "draw",
+    "moves": 51,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 109,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 71,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 24
+  },
+  {
+    "winner": "draw",
+    "moves": 40,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 51
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 15
+  },
+  {
+    "winner": "draw",
+    "moves": 50,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 6
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 82,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 109,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 83,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 103,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -6
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 37,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 122,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "draw",
+    "moves": 46,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 45
+  },
+  {
+    "winner": "black",
+    "moves": 120,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 121,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 125,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -18
+  },
+  {
+    "winner": "draw",
+    "moves": 43,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -45
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 66,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 78,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 97,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 104,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -27
+  },
+  {
+    "winner": "draw",
+    "moves": 48,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 18
+  },
+  {
+    "winner": "draw",
+    "moves": 44,
+    "score": -9
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "draw",
+    "moves": 48,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -18
+  },
+  {
+    "winner": "draw",
+    "moves": 54,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 66,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "draw",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 67,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 38,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -15
+  },
+  {
+    "winner": "draw",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 45
+  },
+  {
+    "winner": "white",
+    "moves": 99,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 66,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "draw",
+    "moves": 75,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -9
+  },
+  {
+    "winner": "black",
+    "moves": 82,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 88,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 71,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 76,
+    "score": -18
+  },
+  {
+    "winner": "draw",
+    "moves": 73,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 91,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 32,
+    "score": -48
+  },
+  {
+    "winner": "draw",
+    "moves": 46,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 86,
+    "score": -12
+  },
+  {
+    "winner": "draw",
+    "moves": 54,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 36,
+    "score": -48
+  },
+  {
+    "winner": "black",
+    "moves": 78,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 79,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 38,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 94,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 82,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 42
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 79,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 9
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 66,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 104,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 36
+  },
+  {
+    "winner": "draw",
+    "moves": 55,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 38,
+    "score": -54
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 66,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -51
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -36
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 51
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 112,
+    "score": -12
+  },
+  {
+    "winner": "draw",
+    "moves": 52,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 80,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 71,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 24
+  },
+  {
+    "winner": "draw",
+    "moves": 56,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 3
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 36,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 96,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -45
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 36
+  },
+  {
+    "winner": "draw",
+    "moves": 47,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 88,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 78,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 42
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 36,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 74,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 87,
+    "score": 6
+  },
+  {
+    "winner": "white",
+    "moves": 37,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 77,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -45
+  },
+  {
+    "winner": "black",
+    "moves": 82,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 33,
+    "score": 48
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 9
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 45
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "draw",
+    "moves": 45,
+    "score": 42
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 95,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 51
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -21
+  },
+  {
+    "winner": "draw",
+    "moves": 68,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 67,
+    "score": 3
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -30
+  },
+  {
+    "winner": "draw",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 84,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 89,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 83,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 45
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -45
+  },
+  {
+    "winner": "black",
+    "moves": 104,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 38,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 30
+  },
+  {
+    "winner": "draw",
+    "moves": 49,
+    "score": 30
+  },
+  {
+    "winner": "draw",
+    "moves": 48,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 66,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 76,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 27
+  },
+  {
+    "winner": "draw",
+    "moves": 54,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -15
+  },
+  {
+    "winner": "draw",
+    "moves": 64,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 45
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 12
+  },
+  {
+    "winner": "draw",
+    "moves": 43,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -3
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 38,
+    "score": -24
+  },
+  {
+    "winner": "draw",
+    "moves": 49,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 79,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 84,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 37,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 78,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 86,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -6
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 84,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 95,
+    "score": 24
+  },
+  {
+    "winner": "draw",
+    "moves": 46,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 34,
+    "score": -45
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 42
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 6
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 80,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 38,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 101,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 36,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -45
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 80,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 18
+  },
+  {
+    "winner": "draw",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 36,
+    "score": -45
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 39
+  },
+  {
+    "winner": "draw",
+    "moves": 38,
+    "score": -36
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 33
+  },
+  {
+    "winner": "draw",
+    "moves": 40,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 89,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 89,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 92,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 6
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 129,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -33
+  },
+  {
+    "winner": "draw",
+    "moves": 42,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 85,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -36
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 93,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 76,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 77,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 98,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 77,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 98,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 78,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 100,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 100,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 91,
+    "score": 12
+  },
+  {
+    "winner": "draw",
+    "moves": 40,
+    "score": -30
+  },
+  {
+    "winner": "draw",
+    "moves": 59,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 84,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 88,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 15
+  },
+  {
+    "winner": "draw",
+    "moves": 47,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -48
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 83,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 81,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -18
+  },
+  {
+    "winner": "draw",
+    "moves": 43,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 48
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -24
+  },
+  {
+    "winner": "draw",
+    "moves": 53,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 81,
+    "score": 15
+  },
+  {
+    "winner": "draw",
+    "moves": 49,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 116,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 83,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 81,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -18
+  },
+  {
+    "winner": "draw",
+    "moves": 49,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 18
+  },
+  {
+    "winner": "draw",
+    "moves": 55,
+    "score": 9
+  },
+  {
+    "winner": "white",
+    "moves": 117,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 39
+  },
+  {
+    "winner": "draw",
+    "moves": 39,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 108,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 37,
+    "score": 45
+  },
+  {
+    "winner": "draw",
+    "moves": 48,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 97,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -45
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 39
+  },
+  {
+    "winner": "draw",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -15
+  },
+  {
+    "winner": "draw",
+    "moves": 54,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 87,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 54
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -51
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 42
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 67,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 141,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 18
+  },
+  {
+    "winner": "draw",
+    "moves": 45,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 79,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 76,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 33
+  },
+  {
+    "winner": "draw",
+    "moves": 54,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 161,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 102,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 42
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -9
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 74,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -24
+  },
+  {
+    "winner": "draw",
+    "moves": 34,
+    "score": -36
+  },
+  {
+    "winner": "white",
+    "moves": 85,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 51
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 90,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 36,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 101,
+    "score": 12
+  },
+  {
+    "winner": "draw",
+    "moves": 59,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 79,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 30
+  },
+  {
+    "winner": "draw",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 141,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 81,
+    "score": 42
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -45
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 38,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 71,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 67,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 27
+  },
+  {
+    "winner": "draw",
+    "moves": 44,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -36
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 74,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 38,
+    "score": -45
+  },
+  {
+    "winner": "white",
+    "moves": 139,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 78,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -6
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 21
+  },
+  {
+    "winner": "draw",
+    "moves": 49,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -6
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 42
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 71,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 105,
+    "score": 12
+  },
+  {
+    "winner": "draw",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "draw",
+    "moves": 41,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 54
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 97,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -24
+  },
+  {
+    "winner": "draw",
+    "moves": 68,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -45
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -36
+  },
+  {
+    "winner": "white",
+    "moves": 63,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 71,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 104,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 79,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 48
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 82,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 67,
+    "score": 12
+  },
+  {
+    "winner": "draw",
+    "moves": 42,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -36
+  },
+  {
+    "winner": "draw",
+    "moves": 36,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 78,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 94,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 79,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 81,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -6
+  },
+  {
+    "winner": "draw",
+    "moves": 42,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -51
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "draw",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 15
+  },
+  {
+    "winner": "draw",
+    "moves": 50,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 24
+  },
+  {
+    "winner": "draw",
+    "moves": 50,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 76,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 85,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "draw",
+    "moves": 43,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 42
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 9
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 83,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 106,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 77,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 51
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -27
+  },
+  {
+    "winner": "draw",
+    "moves": 51,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -27
+  },
+  {
+    "winner": "draw",
+    "moves": 54,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 35,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -30
+  },
+  {
+    "winner": "draw",
+    "moves": 66,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -42
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -24
+  },
+  {
+    "winner": "draw",
+    "moves": 52,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 88,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 111,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 33
+  },
+  {
+    "winner": "draw",
+    "moves": 39,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 80,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 45
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -12
+  },
+  {
+    "winner": "draw",
+    "moves": 43,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 74,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 42
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 21
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -36
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 74,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 36,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 80,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 87,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 82,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 54
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 83,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 78,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 6
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 42
+  },
+  {
+    "winner": "white",
+    "moves": 99,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 42
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 73,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 30
+  },
+  {
+    "winner": "draw",
+    "moves": 41,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 86,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -48
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 71,
+    "score": 15
+  },
+  {
+    "winner": "draw",
+    "moves": 43,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -45
+  },
+  {
+    "winner": "black",
+    "moves": 86,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "draw",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 76,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 36,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 101,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -42
+  },
+  {
+    "winner": "draw",
+    "moves": 46,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 36
+  },
+  {
+    "winner": "draw",
+    "moves": 53,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 72,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 18
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 36
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -36
+  },
+  {
+    "winner": "draw",
+    "moves": 41,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 65,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 113,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 12
+  },
+  {
+    "winner": "draw",
+    "moves": 51,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 67,
+    "score": 9
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 12
+  },
+  {
+    "winner": "draw",
+    "moves": 54,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 39
+  },
+  {
+    "winner": "white",
+    "moves": 111,
+    "score": 12
+  },
+  {
+    "winner": "draw",
+    "moves": 44,
+    "score": -18
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 43,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -6
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 39
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 42
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 83,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 81,
+    "score": 15
+  },
+  {
+    "winner": "draw",
+    "moves": 50,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 69,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 39
+  },
+  {
+    "winner": "draw",
+    "moves": 51,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 9
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -12
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 12
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 30
+  },
+  {
+    "winner": "draw",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 71,
+    "score": 15
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -30
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 27
+  },
+  {
+    "winner": "black",
+    "moves": 58,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 33
+  },
+  {
+    "winner": "draw",
+    "moves": 55,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 90,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 66,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 79,
+    "score": 27
+  },
+  {
+    "winner": "draw",
+    "moves": 45,
+    "score": 36
+  },
+  {
+    "winner": "white",
+    "moves": 75,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -27
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 36
+  },
+  {
+    "winner": "draw",
+    "moves": 60,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 30
+  },
+  {
+    "winner": "white",
+    "moves": 41,
+    "score": 42
+  },
+  {
+    "winner": "black",
+    "moves": 48,
+    "score": -30
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -42
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 42,
+    "score": -45
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -21
+  },
+  {
+    "winner": "draw",
+    "moves": 42,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -27
+  },
+  {
+    "winner": "draw",
+    "moves": 50,
+    "score": -27
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -21
+  },
+  {
+    "winner": "white",
+    "moves": 71,
+    "score": 15
+  },
+  {
+    "winner": "black",
+    "moves": 70,
+    "score": -15
+  },
+  {
+    "winner": "white",
+    "moves": 49,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 59,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 39,
+    "score": 33
+  },
+  {
+    "winner": "white",
+    "moves": 61,
+    "score": 33
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -36
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 51
+  },
+  {
+    "winner": "black",
+    "moves": 46,
+    "score": -36
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -39
+  },
+  {
+    "winner": "white",
+    "moves": 67,
+    "score": 12
+  },
+  {
+    "winner": "black",
+    "moves": 40,
+    "score": -33
+  },
+  {
+    "winner": "black",
+    "moves": 56,
+    "score": -18
+  },
+  {
+    "winner": "black",
+    "moves": 62,
+    "score": -21
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -36
+  },
+  {
+    "winner": "white",
+    "moves": 53,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -36
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 24
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 44,
+    "score": -39
+  },
+  {
+    "winner": "black",
+    "moves": 68,
+    "score": -12
+  },
+  {
+    "winner": "white",
+    "moves": 51,
+    "score": 21
+  },
+  {
+    "winner": "white",
+    "moves": 57,
+    "score": 18
+  },
+  {
+    "winner": "black",
+    "moves": 80,
+    "score": -24
+  },
+  {
+    "winner": "white",
+    "moves": 47,
+    "score": 45
+  },
+  {
+    "winner": "black",
+    "moves": 52,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 50,
+    "score": -24
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -33
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 54
+  },
+  {
+    "winner": "draw",
+    "moves": 45,
+    "score": 27
+  },
+  {
+    "winner": "white",
+    "moves": 45,
+    "score": 30
+  },
+  {
+    "winner": "black",
+    "moves": 60,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 64,
+    "score": -15
+  },
+  {
+    "winner": "black",
+    "moves": 54,
+    "score": -51
+  },
+  {
+    "winner": "white",
+    "moves": 89,
+    "score": 15
+  }
+]

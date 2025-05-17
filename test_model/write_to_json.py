@@ -11,7 +11,7 @@ def simulate_game(white_ai, black_ai):
     move_count = 0
 
     # Utwórz obiekt MoveSaver
-    saver = MoveSaver("training_data2.json")
+    saver = MoveSaver("training_data150.json")
 
     while board.has_pieces(WHITE) and board.has_pieces(BLACK):
         if current_player == WHITE:
@@ -52,7 +52,7 @@ def simulate_game(white_ai, black_ai):
     }
 
 
-def run_simulations(n_games=100, out_file="games_data.json"):
+def run_simulations(n_games=100, out_file="games_data150.json"):
     results = []
     white_ai = AI_COG(WHITE)
     black_ai = AI_COG(BLACK)
@@ -68,4 +68,4 @@ def run_simulations(n_games=100, out_file="games_data.json"):
 
 
 if __name__ == "__main__":
-    run_simulations(n_games=200, out_file="games_200_cog.json")
+    run_simulations(n_games=150, out_file="games_150_cog.json")
