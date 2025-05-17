@@ -12,7 +12,7 @@ pygame.display.set_caption('Warcaby AI vs AI')
 
 FPS = 60
 ROWS, COLS = 8, 8
-AI_MODE = 'neural'  # zmien na 'neural' lub 'random' jesli chcesz
+AI_MODE = 'cog'  # zmien na 'neural' lub 'random' jesli chcesz
 
 model = None
 if AI_MODE == 'neural':
@@ -67,7 +67,7 @@ def game_loop():
 
         game.draw(WIN)
         pygame.display.update()
-        pygame.time.delay(300)
+        pygame.time.delay(1000)
 
         if not game.has_pieces(WHITE):
             draw_end_game_message("Czarny wygral!")

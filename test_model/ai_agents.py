@@ -5,45 +5,70 @@ from board import *
 from utils import BoardConverter
 
 
-
+#zmodyfikowany AI_COG
 class AI_COG:
     def __init__(self, color):
         self.color = color
 
-    def get_all_moves(self, board):
+    def get_all_moves(self, board_obj):
         moves = []
         for row in range(ROWS):
             for col in range(COLS):
-                piece = board.board[row][col]  # Accessing the board attribute
+                piece = board_obj.board[row][col]
                 if piece and piece.color == self.color:
-                    valid_moves = Board.get_valid_moves(board.board, piece)  # Pass the board.board here
+                    valid_moves = Board.get_valid_moves(board_obj.board, piece)
                     for move, captured in valid_moves.items():
                         moves.append((piece, move, captured))
         return moves
 
-    def get_move(self, board):
-        moves = self.get_all_moves(board)
+    def evaluate_move(self, board_obj, piece, move, captured):
+        temp_board = Board()
+        temp_board.board = [[p if p is None else Piece(p.row, p.col, p.color, p.king)
+                             for p in row] for row in board_obj.board]
 
-        if not moves:
-            return None, None, None  # brak ruchów
+        temp_board.board[piece.row][piece.col] = None
+        piece_copy = Piece(move[0], move[1], piece.color, piece.king)
 
-        # Najpierw bicie
-        captures = [(piece, move, captured) for piece, move, captured in moves if captured]
-        if captures:
-            return random.choice(captures)
+        # Awans na damkę
+        if (piece.color == WHITE and move[0] == 0) or (piece.color == BLACK and move[0] == ROWS - 1):
+            piece_copy.make_king()
 
-        # Potem awans na damkę
-        king_moves = []
-        for piece, move, captured in moves:
-            target_row, target_col = move
-            if (piece.color == WHITE and target_row == 0) or (piece.color == BLACK and target_row == ROWS - 1):
-                king_moves.append((piece, move, captured))
-        if king_moves:
-            return random.choice(king_moves)
+        temp_board.board[move[0]][move[1]] = piece_copy
+        for cap in captured:
+            temp_board.board[cap.row][cap.col] = None
 
-        # Inaczej cokolwiek
-        return random.choice(moves)
-    
+        score = temp_board.evaluate()
+
+        # Dodatkowe punkty za bicie
+        score += len(captured) * 5
+
+        # Bonus za awans na damkę
+        if piece_copy.king and not piece.king:
+            score += 7
+
+        # Premia za środkową część planszy
+        center_rows = [3, 4]
+        center_cols = [3, 4]
+        if move[0] in center_rows and move[1] in center_cols:
+            score += 2
+
+        return score
+
+    def get_move(self, board_obj):
+        all_moves = self.get_all_moves(board_obj)
+        if not all_moves:
+            return None, None, None
+
+        best_score = float('-inf')
+        best_move = None
+
+        for piece, move, captured in all_moves:
+            score = self.evaluate_move(board_obj, piece, move, captured)
+            if score > best_score:
+                best_score = score
+                best_move = (piece, move, captured)
+
+        return best_move    
 
 class AI_Neural:
     def __init__(self, color, model):
