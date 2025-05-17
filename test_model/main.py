@@ -22,8 +22,8 @@ if AI_MODE == 'neural':
 
 # Inicjalizacja AI dla obu graczy
 if AI_MODE == 'cog':
-    white_ai = AI_COG(WHITE)
-    black_ai = AI_COG(BLACK)
+    white_ai = AI_COG1(WHITE)
+    black_ai = AI_COG2(BLACK)
 elif AI_MODE == 'neural':
     white_ai = AI_Neural(WHITE, model)
     black_ai = AI_Neural(BLACK, model)
@@ -67,7 +67,7 @@ def game_loop():
 
         game.draw(WIN)
         pygame.display.update()
-        pygame.time.delay(1000)
+        pygame.time.delay(300)
 
         if not game.has_pieces(WHITE):
             draw_end_game_message("Czarny wygral!")

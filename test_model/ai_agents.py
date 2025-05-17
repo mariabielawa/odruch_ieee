@@ -6,49 +6,49 @@ from utils import BoardConverter
 
 
 #stary AI_COG - ten z którego powstał json
-# class AI_COG:
-#     def __init__(self, color):
-#         self.color = color
+class AI_COG1:
+    def __init__(self, color):
+        self.color = color
 
-#     def get_all_moves(self, board):
-#         moves = []
-#         for row in range(ROWS):
-#             for col in range(COLS):
-#                 piece = board.board[row][col]  # Accessing the board attribute
-#                 if piece and piece.color == self.color:
-#                     valid_moves = Board.get_valid_moves(board.board, piece)  # Pass the board.board here
-#                     for move, captured in valid_moves.items():
-#                         moves.append((piece, move, captured))
-#         return moves
+    def get_all_moves(self, board):
+        moves = []
+        for row in range(ROWS):
+            for col in range(COLS):
+                piece = board.board[row][col]  # Accessing the board attribute
+                if piece and piece.color == self.color:
+                    valid_moves = Board.get_valid_moves(board.board, piece)  # Pass the board.board here
+                    for move, captured in valid_moves.items():
+                        moves.append((piece, move, captured))
+        return moves
 
-#     def get_move(self, board):
-#         moves = self.get_all_moves(board)
+    def get_move(self, board):
+        moves = self.get_all_moves(board)
 
-#         if not moves:
-#             return None, None, None  # brak ruchów
+        if not moves:
+            return None, None, None  # brak ruchów
 
-#         # Najpierw bicie
-#         captures = [(piece, move, captured) for piece, move, captured in moves if captured]
-#         if captures:
-#             return random.choice(captures)
+        # Najpierw bicie
+        captures = [(piece, move, captured) for piece, move, captured in moves if captured]
+        if captures:
+            return random.choice(captures)
 
-#         # Potem awans na damkę
-#         king_moves = []
-#         for piece, move, captured in moves:
-#             target_row, target_col = move
-#             if (piece.color == WHITE and target_row == 0) or (piece.color == BLACK and target_row == ROWS - 1):
-#                 king_moves.append((piece, move, captured))
-#         if king_moves:
-#             return random.choice(king_moves)
+        # Potem awans na damkę
+        king_moves = []
+        for piece, move, captured in moves:
+            target_row, target_col = move
+            if (piece.color == WHITE and target_row == 0) or (piece.color == BLACK and target_row == ROWS - 1):
+                king_moves.append((piece, move, captured))
+        if king_moves:
+            return random.choice(king_moves)
 
-#         # Inaczej cokolwiek
-#         return random.choice(moves)
+        # Inaczej cokolwiek
+        return random.choice(moves)
 
 
 
 
 #zmodyfikowany AI_COG
-class AI_COG:
+class AI_COG2:
     def __init__(self, color):
         self.color = color
 
