@@ -5,6 +5,7 @@ from board import *
 from ai_agents import *
 from model import *
 import torch
+from collections import defaultdict
 
 pygame.init()
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
@@ -42,6 +43,18 @@ def game_loop():
     game = Board()
     clock = pygame.time.Clock()
     current_player = WHITE
+
+    history_counter = defaultdict(int)
+
+    def serialize_board(board):
+        key = ''
+        for row in board:
+            for piece in row:
+                if piece is None:
+                    key += '.'
+                else:
+                    key += ('w' if piece.color == WHITE else 'b') + ('k' if piece.king else 'p')
+        return key
 
     while True:
         clock.tick(FPS)
@@ -127,6 +140,12 @@ def game_loop():
         if not game.has_any_moves(current_player):
             winner = "Czarny" if current_player == WHITE else "Bialy"
             draw_end_game_message(f"{winner} wygral!")
+            return
+        
+        board_key = serialize_board(game.board)
+        history_counter[board_key] += 1
+        if history_counter[board_key] >= 3:
+            draw_end_game_message("Remis!")
             return
 
 
