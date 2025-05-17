@@ -115,6 +115,16 @@ class Board:
                 if piece and piece.color == color:
                     return True
         return False
+    
+    def has_any_moves(self, color):
+        for row in range(ROWS):
+            for col in range(COLS):
+                piece = self.board[row][col]
+                if piece and piece.color == color:
+                    moves = self.get_valid_moves(self.board, piece)
+                    if moves:
+                        return True
+        return False
 
     def evaluate(self):
         score = 0

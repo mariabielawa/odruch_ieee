@@ -22,7 +22,7 @@ if AI_MODE == 'neural':
 
 # Inicjalizacja AI dla obu graczy
 if AI_MODE == 'cog':
-    white_ai = AI_COG1(WHITE)
+    white_ai = AI_COG2(WHITE)
     black_ai = AI_COG2(BLACK)
 elif AI_MODE == 'neural':
     white_ai = AI_Neural(WHITE, model)
@@ -51,30 +51,84 @@ def game_loop():
                 pygame.quit()
                 sys.exit()
 
-        if current_player == WHITE:
-            piece, move, captured = white_ai.get_move(game)
-        else:
-            piece, move, captured = black_ai.get_move(game)
+        ai = white_ai if current_player == WHITE else black_ai
+        piece, move, captured = ai.get_move(game)
 
         if piece and move:
+            # wykonaj pierwszy ruch
+            game.board[piece.row][piece.col] = None
             for cap in captured:
                 game.board[cap.row][cap.col] = None
-            game.board[piece.row][piece.col] = None
             piece.row, piece.col = move
             game.board[move[0]][move[1]] = piece
+
+            # sprawdź awans na damkę
+            just_became_king = False
             if (piece.color == WHITE and move[0] == 0) or (piece.color == BLACK and move[0] == ROWS - 1):
-                piece.make_king()
+                if not piece.king:
+                    piece.make_king()
+                    just_became_king = True
 
-        game.draw(WIN)
-        pygame.display.update()
-        pygame.time.delay(300)
+            game.draw(WIN)
+            pygame.display.update()
+            pygame.time.delay(500)
 
+            # kontynuuj bicie tylko jeśli było bicie i NIE awansowano na damkę
+            while captured and not just_became_king:
+                valid_moves = Board.get_valid_moves(game.board, piece)
+                further_captures = {m: c for m, c in valid_moves.items() if c}
+                if not further_captures:
+                    break
+
+                best_score = float('-inf')
+                best_move = None
+
+                for m, c in further_captures.items():
+                    if hasattr(ai, 'evaluate_move'):
+                        score = ai.evaluate_move(game, piece, m, c)
+                    else:
+                        score = len(c)
+                    if score > best_score:
+                        best_score = score
+                        best_move = (m, c)
+
+                if best_move is None:
+                    break
+
+                # wykonaj kolejne bicie
+                move, captured = best_move
+                game.board[piece.row][piece.col] = None
+                for cap in captured:
+                    game.board[cap.row][cap.col] = None
+                piece.row, piece.col = move
+                game.board[move[0]][move[1]] = piece
+
+                # sprawdź awans po biciu
+                just_became_king = False
+                if (piece.color == WHITE and move[0] == 0) or (piece.color == BLACK and move[0] == ROWS - 1):
+                    if not piece.king:
+                        piece.make_king()
+                        just_became_king = True
+
+                game.draw(WIN)
+                pygame.display.update()
+                pygame.time.delay(1000)
+
+        # sprawdź koniec gry
         if not game.has_pieces(WHITE):
             draw_end_game_message("Czarny wygral!")
             return
         if not game.has_pieces(BLACK):
             draw_end_game_message("Bialy wygral!")
             return
+        if not game.has_any_moves(WHITE) and not game.has_any_moves(BLACK):
+            draw_end_game_message("Remis!")
+            return
+        if not game.has_any_moves(current_player):
+            winner = "Czarny" if current_player == WHITE else "Bialy"
+            draw_end_game_message(f"{winner} wygral!")
+            return
+
 
         current_player = BLACK if current_player == WHITE else WHITE
 

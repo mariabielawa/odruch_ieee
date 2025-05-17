@@ -105,13 +105,24 @@ class AI_COG2:
 
         # Bonus za awans na damkę
         if piece_copy.king and not piece.king:
-            score += 7
+            score += 20
 
         # Premia za środkową część planszy
         center_rows = [3, 4]
         center_cols = [3, 4]
         if move[0] in center_rows and move[1] in center_cols:
-            score += 2
+            score += 1
+
+        opponent_color = BLACK if piece.color == WHITE else WHITE
+        for row in range(ROWS):
+            for col in range(COLS):
+                enemy = temp_board.board[row][col]
+                if enemy and enemy.color == opponent_color:
+                    valid_moves = Board.get_valid_moves(temp_board.board, enemy)
+                    for m, caps in valid_moves.items():
+                        if caps:
+                            # zakładamy, że jedna strata kosztuje 10 punktów
+                            score -= len(caps) * 10
 
         return score
 
