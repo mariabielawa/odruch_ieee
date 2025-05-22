@@ -23,8 +23,8 @@ if AI_MODE == 'neural':
 
 # Inicjalizacja AI dla obu graczy
 if AI_MODE == 'cog':
-    white_ai = AI_COG2(WHITE)
-    black_ai = AI_COG2(BLACK)
+    white_ai = AI_COG3(WHITE)
+    black_ai = AI_COG1(BLACK)
 elif AI_MODE == 'neural':
     white_ai = AI_Neural(WHITE, model)
     black_ai = AI_Neural(BLACK, model)
