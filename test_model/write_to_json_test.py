@@ -141,6 +141,6 @@ def run_simulations(n_games=100, out_file="games_data150.json", saver_path="trai
 
 
 if __name__ == "__main__":
-    run_simulations(n_games=1000, 
-                    out_file="test_model/jsony/games_1000_cog.json", 
-                    saver_path="test_model/jsony/training_data1000.json")
+    run_simulations(n_games=150, 
+                    out_file="test_model/jsony/games_czarne_150_1.json", 
+                    saver_path="test_model/jsony/training_czarne_150_1.json")

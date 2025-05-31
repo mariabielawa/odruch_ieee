@@ -13,12 +13,13 @@ pygame.display.set_caption('Warcaby AI vs AI')
 
 FPS = 60
 ROWS, COLS = 8, 8
-AI_MODE = 'cog'  # zmien na 'neural' lub 'random' jesli chcesz
+AI_MODE = 'neural'  # zmien na 'neural' lub 'random' jesli chcesz
 
 model = None
 if AI_MODE == 'neural':
     model = SimpleNet()
-    model.load_state_dict(torch.load("checkers_model.pth"))
+    model.load_state_dict(torch.load("test_model/models/checkers_model_neural.pth"))
+    model.eval()
     print("Model loaded:", model)
 
 # Inicjalizacja AI dla obu graczy
@@ -27,7 +28,7 @@ if AI_MODE == 'cog':
     black_ai = AI_COG1(BLACK)
 elif AI_MODE == 'neural':
     white_ai = AI_Neural(WHITE, model)
-    black_ai = AI_Neural(BLACK, model)
+    black_ai = AI_COG3(BLACK)
 elif AI_MODE == 'random':
     white_ai = AI_Random(WHITE)
     black_ai = AI_Random(BLACK)

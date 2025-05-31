@@ -1,41 +1,44 @@
 import torch
 import torch.nn as nn
-import torch.optim as optim
-import json
+import torch.nn.functional as F
+from torch.utils.data import DataLoader
+from dataset import CheckersDataset
 from model import SimpleNet
+import os
 
-def load_data(file_path="training_data.json"):
-    with open(file_path, "r") as f:
-        data = json.load(f)
+dataset = CheckersDataset("test_model/jsony/full.json")
+loader = DataLoader(dataset, batch_size=32, shuffle=True)
 
-    inputs = []
-    targets = []
-    for entry in data:
-        flat_board = [cell for row in entry["board"] for cell in row]
-        inputs.append(flat_board)
-        targets.append(entry["score"])
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+model = SimpleNet().to(device)
+criterion = nn.CrossEntropyLoss()
+optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
 
-    X = torch.tensor(inputs, dtype=torch.float32)
-    y = torch.tensor(targets, dtype=torch.float32).unsqueeze(1)
-    return X, y
+epochs = 50
+for epoch in range(epochs):
+    total_loss = 0
+    correct = 0
+    total = 0
 
-def train_model():
-    model = SimpleNet()
-    X, y = load_data()
-    criterion = nn.MSELoss()
-    optimizer = optim.Adam(model.parameters(), lr=0.001)
+    for boards, labels in loader:
+        boards = boards.to(device)
+        labels = labels.to(device)
 
-    EPOCHS = 50
-    for epoch in range(EPOCHS):
+        outputs = model(boards)
+        loss = criterion(outputs, labels)
+
         optimizer.zero_grad()
-        outputs = model(X)
-        loss = criterion(outputs, y)
         loss.backward()
         optimizer.step()
-        print(f"Epoch {epoch+1}/{EPOCHS}, Loss: {loss.item():.4f}")
 
-    torch.save(model.state_dict(), "checkers_model.pth")
-    print("Model saved as checkers_model.pth")
+        total_loss += loss.item()
+        _, predicted = torch.max(outputs, 1)
+        correct += (predicted == labels).sum().item()
+        total += labels.size(0)
 
-if __name__ == "__main__":
-    train_model()
+    accuracy = 100 * correct / total
+    print(f"Epoch {epoch+1}/{epochs} | Loss: {total_loss:.4f} | Accuracy: {accuracy:.2f}%")
+
+os.makedirs("test_model/models", exist_ok=True)
+torch.save(model.state_dict(), "test_model/models/checkers_model_neural.pth")
+print("Model saved to test_model/models/checkers_model_neural.pth")

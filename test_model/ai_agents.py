@@ -3,6 +3,8 @@ import torch
 from constants import *
 from board import *
 from utils import BoardConverter
+import time
+import heapq
 
 
 #stary AI_COG - ten z którego powstał json
@@ -21,7 +23,7 @@ class AI_COG1:
                         moves.append((piece, move, captured))
         return moves
 
-    def get_move(self, board):
+    def get_move(self, board, time_limit=None):
         moves = self.get_all_moves(board)
 
         if not moves:
@@ -143,7 +145,7 @@ class AI_COG2:
         return best_move    
     
 class AI_COG3:
-    def __init__(self, color, depth=4):
+    def __init__(self, color, depth=1):
         """
         Inicjalizacja.
         """
@@ -373,12 +375,84 @@ class AI_COG3:
                     break
             return min_eval, best_move
 
-    def get_move(self, board_obj):
-        score, best_move = self.minimax(board_obj, self.depth, True, -float('inf'), float('inf'))
-        if best_move:
-            return best_move
+    # def get_move(self, board_obj):
+    #     score, best_move = self.minimax(board_obj, self.depth, True, -float('inf'), float('inf'))
+    #     if best_move:
+    #         return best_move
+    #     else:
+    #         return None, None, None
+
+    def minimax_with_timeout(self, board_obj, depth, maximizing_player, alpha, beta, start_time, time_limit):
+        if time.time() - start_time > time_limit:
+            raise TimeoutError()
+
+        if depth == 0:
+            return self.evaluate_board(board_obj), None
+
+        current_color = self.color if maximizing_player else self.get_opponent_color(self.color)
+        moves = self.get_all_moves(board_obj, current_color)
+        moves = self.filter_safe_moves(board_obj, moves)
+
+        if not moves:
+            return (-float('inf'), None) if maximizing_player else (float('inf'), None)
+
+        best_move = None
+
+        if maximizing_player:
+            max_eval = -float('inf')
+            for piece, move, captured in moves:
+                new_board = self.simulate_move(board_obj, piece, move, captured)
+                eval_score, _ = self.minimax_with_timeout(new_board, depth - 1, False, alpha, beta, start_time, time_limit)
+
+                bonus = len(captured) * 10
+                piece_copy = new_board.board[move[0]][move[1]]
+                if piece_copy.king and not piece.king:
+                    bonus += 30
+                eval_score += bonus
+
+                if eval_score > max_eval:
+                    max_eval = eval_score
+                    best_move = (piece, move, captured)
+
+                alpha = max(alpha, eval_score)
+                if beta <= alpha:
+                    break
+
+            return max_eval, best_move
         else:
+            min_eval = float('inf')
+            for piece, move, captured in moves:
+                new_board = self.simulate_move(board_obj, piece, move, captured)
+                eval_score, _ = self.minimax_with_timeout(new_board, depth - 1, True, alpha, beta, start_time, time_limit)
+
+                if eval_score < min_eval:
+                    min_eval = eval_score
+                    best_move = (piece, move, captured)
+
+                beta = min(beta, eval_score)
+                if beta <= alpha:
+                    break
+
+            return min_eval, best_move
+
+
+    def get_move(self, board_obj, time_limit=1.0):
+        start_time = time.time()
+
+        # Pobierz wszystkie możliwe ruchy na wszelki wypadek
+        fallback_moves = self.get_all_moves(board_obj)
+        if not fallback_moves:
             return None, None, None
+
+        best_move = None
+
+        try:
+            # Czasowa wersja minimaxa
+            score, best_move = self.minimax_with_timeout(board_obj, self.depth, True, -float('inf'), float('inf'), start_time, time_limit)
+        except TimeoutError:
+            pass  # jeśli przekroczy czas – użyj losowego ruchu
+
+        return best_move if best_move else random.choice(fallback_moves)
 
 class AI_Neural:
     def __init__(self, color, model):
@@ -388,50 +462,71 @@ class AI_Neural:
 
     def get_all_moves(self, board):
         moves = []
+        jump_moves = []
+
         for row in range(ROWS):
             for col in range(COLS):
-                piece = board.board[row][col]  # Accessing the board attribute
+                piece = board.board[row][col]
                 if piece and piece.color == self.color:
-                    valid_moves = Board.get_valid_moves(board.board, piece)  # Pass the board.board here
+                    valid_moves = Board.get_valid_moves(board.board, piece)
                     for move, captured in valid_moves.items():
-                        moves.append((piece, move, captured))
-        return moves
+                        if captured:
+                            jump_moves.append((piece, move, captured))
+                        else:
+                            moves.append((piece, move, captured))
 
-    def get_move(self, board_obj):
+        return jump_moves if jump_moves else moves
+
+    # def get_move(self, board_obj, time_limit = None):
+    #     all_moves = self.get_all_moves(board_obj)
+    #     if not all_moves:
+    #         return None, None, None
+
+    #     flat_board = [cell for row in BoardConverter.board_to_list(board_obj.board) for cell in row]
+    #     board_tensor = torch.tensor(flat_board, dtype=torch.float32).unsqueeze(0)  # [1, 64]
+
+    #     with torch.no_grad():
+    #         output = self.model(board_tensor)[0]  # shape: [4096]
+
+    #     best_score = float('-inf')
+    #     best_move = None
+
+    #     for piece, move, captured in all_moves:
+    #         start = piece.row * 8 + piece.col
+    #         end = move[0] * 8 + move[1]
+    #         move_index = start * 64 + end
+    #         score = output[move_index].item()
+
+    #         if score > best_score:
+    #             best_score = score
+    #             best_move = (piece, move, captured)
+
+    #     return best_move
+
+    def get_move(self, board_obj, time_limit=None):
         all_moves = self.get_all_moves(board_obj)
         if not all_moves:
             return None, None, None
 
-        best_score = float('-inf')
-        best_move = None
+        flat_board = [cell for row in BoardConverter.board_to_list(board_obj.board) for cell in row]
+        board_tensor = torch.tensor(flat_board, dtype=torch.float32).unsqueeze(0)
 
+        with torch.no_grad():
+            output = self.model(board_tensor)[0]
+
+        scored_moves = []
         for piece, move, captured in all_moves:
-            temp_board = Board()
-            temp_board.board = [[p if p is None else Piece(p.row, p.col, p.color, p.king)
-                                for p in row] for row in board_obj.board]
+            start = piece.row * 8 + piece.col
+            end = move[0] * 8 + move[1]
+            move_index = start * 64 + end
+            score = output[move_index].item()
+            scored_moves.append((score, (piece, move, captured)))
 
-            moving_piece = temp_board.board[piece.row][piece.col]
-            temp_board.board[piece.row][piece.col] = None
-            moving_piece.row, moving_piece.col = move
-            if (moving_piece.color == WHITE and move[0] == 0) or (moving_piece.color == BLACK and move[0] == ROWS - 1):
-                moving_piece.make_king()
-            temp_board.board[move[0]][move[1]] = moving_piece
-            for cap in captured:
-                temp_board.board[cap.row][cap.col] = None
-
-            board_input = BoardConverter.board_to_list(temp_board.board)
-            flat_input = torch.tensor([cell for row in board_input for cell in row], dtype=torch.float32)
-            with torch.no_grad():
-                score = self.model(flat_input).item()
-
-            if score > best_score:
-                best_score = score
-                best_move = (piece, move, captured)
-	
-            if best_move is None:
-                return random.choice(all_moves)
-
-        return best_move
+        # 🔀 Wybierz losowo z top 3 najlepiej ocenionych
+        top_k = heapq.nlargest(3, scored_moves, key=lambda x: x[0])
+        _, chosen_move = random.choice(top_k)
+        return chosen_move
+    
 
 class AI_Random:
     def __init__(self, color):
